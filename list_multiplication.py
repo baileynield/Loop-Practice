@@ -13,8 +13,6 @@ def list_multiply_for(a: list[int], b: list[int]) -> list[int]:
         c.append(d)
     print(c)
 
-def list_multiply_foreach(a: list[int], b: list[int]) -> list[int]:
-    pass
 
 a = [1, 2, 3]
 b = [4, 5, 6]
